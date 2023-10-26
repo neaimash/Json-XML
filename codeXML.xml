@@ -1,0 +1,60 @@
+<ChabadHouse>
+    <Rabbi>
+        <FirstName>Roni</FirstName>
+		<LastName>Cohen</LastName>
+        <Age>50</Age>
+		<Country>Scotland</Country>
+	    <Address> 
+	       <City>Edinburgh</City>
+	       <Street>ASD </Street>
+		   <HouseNumber>3</HouseNumber>
+		</Address>
+	    <Relatives>
+	       <Relative>
+                <FirstName>Relative 1 Name</FirstName>
+                <Age>30</Age>
+		        <Address> 
+	                <City>Jerusalem</City>
+	                <Street>ASD </Street>
+		            <HouseNumber>3</HouseNumber>
+		        </Address>
+                <Relationship>Relative 1 Relationship</Relationship>
+                <PhoneNumbers>
+                    <PhoneNumber>Phone Number 1</PhoneNumber>
+                    <PhoneNumber>Phone Number 2</PhoneNumber>
+                    <PhoneNumber>Phone Number 3</PhoneNumber>
+                </PhoneNumbers>
+            </Relative>
+            <Relative>
+                <FirstName>Relative 2 Name</FirstName>
+                <Age>6</Age>
+		        <Address> 
+	                <City>LA</City>
+	                <Street>ASD </Street>
+		            <HouseNumber>3</HouseNumber>
+		        </Address>
+                <Relationship>Relative 2 Relationship</Relationship>
+                <PhoneNumbers>
+                    <PhoneNumber>Phone Number 1</PhoneNumber>
+                    <PhoneNumber>0554566789</PhoneNumber>
+                </PhoneNumbers>
+            </Relative>
+            <Relative>
+               <FirstName>Relative 3 Name</FirstName>
+               <Age>70</Age>
+               <Address> 
+	              <City>Edinburgh</City>
+	              <Street>ASD </Street>
+		          <HouseNumber>3</HouseNumber>
+		       </Address>
+                <Relationship>Relative 3 Relationship</Relationship>
+                <PhoneNumbers>
+                    <PhoneNumber>Phone Number 1</PhoneNumber>
+                    <PhoneNumber>Phone Number 2</PhoneNumber>
+                </PhoneNumbers>
+            </Relative>
+	    </Relatives>
+    </Rabbi>
+</ChabadHouse>
+
+
